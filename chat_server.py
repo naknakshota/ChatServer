@@ -1,11 +1,8 @@
-# COMP 332, Spring 2018
-# Chat server
-#
 # Usage:
 #   python3 chat_server.py <host> <port>
 #
 #**************************************************************************
-#              Homework 5: Transport protocols and a chat app
+#                              Chat Server
 #                       Author: Shota Nakamura
 #**************************************************************************
 import socket

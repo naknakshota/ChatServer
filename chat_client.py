@@ -1,13 +1,9 @@
-#
-# COMP 332, Spring 2018
-# Chat client
-#
 # Example usage:
 #
 #   python3 chat_client.py <chat_host> <chat_port>
 #
 #**************************************************************************
-#              Homework 5: Transport protocols and a chat app
+#                              Chat Client
 #                       Author: Shota Nakamura
 #**************************************************************************
 import socket
